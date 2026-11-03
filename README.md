@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou Rafael Ferrete 👋
 
-<!--
-**Rafaelferrte/Rafaelferrte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Software
+Multiplataforma na Fatec.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento backend,
+inteligência artificial e engenharia de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- FastAPI
+- Java
+- JavaScript / Node.js
+- PostgreSQL
+- MySQL
+- Docker
+- Git e GitHub
+
+## Projetos em destaque
+
+### Job Tracker API
+API REST para gerenciamento de candidaturas,
+desenvolvida com Python, FastAPI e PostgreSQL.
+
+## Atualmente estudando
+
+- Machine Learning
+- Engenharia de LLMs
+- Processamento de Linguagem Natural
+- Ciência de Dados
+
+## Contato
+
+- GitHub: https://github.com/Rafaelferrte
